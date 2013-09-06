@@ -1,0 +1,3 @@
+[submodule "lib/fav"]
+	path = lib/fav
+	url = https://github.com/katat/fav.git

@@ -1,0 +1,13 @@
+{
+  "name": "ico2png-service",
+  "version": "0.0.1",
+  "description": "ico2png service",
+  "dependencies": {
+    "express": "latest",
+    "mocha": "latest",
+    "supertest": "latest",
+    "should": "latest",
+    "canvas": "latest"
+  },
+  "author": "Kata"
+}
